@@ -11,9 +11,9 @@ export default function Recommendation() {
                     <div className='relative rounded-full overflow-hidden w-10 h-10'>
                         <Image path={"general/avatar.png"} alt="sarabadani" w={100} h={100} tr={true} />
                     </div>
-                    <div>
-                        <h2 className='text-md font-bold'>alireza sarabadani</h2>
-                        <span className='text-textGray text-sm'>@devwithalireza</span>
+                    <div className="direction-ltr flex flex-col items-end">
+                        <h2 className='text-md font-bold text-right'>alireza sarabadani</h2>
+                        <span className='text-textGray text-sm text-right'>@devwithalireza</span>
                     </div>
                 </div>
                 {/* دکمه */}
@@ -25,9 +25,9 @@ export default function Recommendation() {
                     <div className='relative rounded-full overflow-hidden w-10 h-10'>
                         <Image path={"general/avatar.png"} alt="sarabadani" w={100} h={100} tr={true} />
                     </div>
-                    <div>
-                        <h2 className='text-md font-bold'>alireza sarabadani</h2>
-                        <span className='text-textGray text-sm'>@devwithalireza</span>
+                    <div className="direction-ltr flex flex-col items-end">
+                        <h2 className='text-md font-bold text-right'>alireza sarabadani</h2>
+                        <span className='text-textGray text-sm text-right'>@devwithalireza</span>
                     </div>
                 </div>
                 {/* دکمه */}
@@ -39,9 +39,9 @@ export default function Recommendation() {
                     <div className='relative rounded-full overflow-hidden w-10 h-10'>
                         <Image path={"general/avatar.png"} alt="sarabadani" w={100} h={100} tr={true} />
                     </div>
-                    <div>
-                        <h2 className='text-md font-bold'>alireza sarabadani</h2>
-                        <span className='text-textGray text-sm'>@devwithalireza</span>
+                    <div className="direction-ltr flex flex-col items-end">
+                        <h2 className='text-md font-bold text-right'>alireza sarabadani</h2>
+                        <span className='text-textGray text-sm text-right'>@devwithalireza</span>
                     </div>
                 </div>
                 {/* دکمه */}

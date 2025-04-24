@@ -7,3 +7,7 @@ body {
   background: black;
   font-family: Tahoma, Arial, sans-serif;
 }
+
+.direction-ltr {
+  direction: ltr;
+}

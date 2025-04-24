@@ -88,14 +88,14 @@ export default function RightBar() {
         </Link>
       </div>
       {/* اطلاعات حساب */}
-      <div className='flex items-center justify-between'>
+      <div className='flex items-center justify-center xxl:justify-between'>
         <div className='flex items-center gap-2'>
           <div className='relative w-10 h-10 rounded-full overflow-hidden'>
             <Image path="/general/avatar.png" alt='alireza sarabadani' w={100} h={100} tr={true} />
           </div>
           <div className='hidden xxl:flex flex-col'>
             <span className='font-bold'>Alireza Sarabadani</span>
-            <span className='text-textGray'>@devwithalireza</span>
+            <span className='text-textGray text-right direction-ltr'>@devwithalireza</span>
           </div>
         </div>
         <div className='hidden xxl:block cursor-pointer font-bold'>...</div>

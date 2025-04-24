@@ -43,9 +43,9 @@ export default function UserPage() {
                 {/* اطلاعات کاربر */}
                 <div className='p-4 flex flex-col gap-2'>
                     {/* نام و کاربری و ایدی */}
-                    <div>
-                        <h2 className='text-2xl font-bold'>Alireza Sarabadani</h2>
-                        <span className='text-sm text-textGray'>@devwithalireza</span>
+                    <div className="direction-ltr flex flex-col items-end">
+                        <h2 className='text-2xl text-right font-bold'>Alireza Sarabadani</h2>
+                        <span className='text-sm text-right text-textGray'>@devwithalireza</span>
                     </div>
                     <p>
                         Alireza Sarabadani Youtube Channel
